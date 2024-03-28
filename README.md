@@ -1,0 +1,2 @@
+# djangobasics
+django sample applications
